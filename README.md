@@ -10,3 +10,6 @@ of
 [Inception V3 checkpoint](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz)
 
 [ResNet V2 152 checkpoint](http://download.tensorflow.org/models/resnet_v2_152_2017_04_14.tar.gz)
+
+## Copyright
+Copyright (c) 2017 Tony-Y.
