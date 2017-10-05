@@ -22,7 +22,7 @@ Copyright 2017 The TensorFlow Authors All Rights Reserved.
 Licensed under the Apache License, Version 2.0.
 
 ### Resnet V2
-Copyright 2016 The TensorFlow Authors All Rights Reserved.  
+Copyright 2016 The TensorFlow Authors All Rights Reserved.  
 Licensed under the Apache License, Version 2.0.
 
 ## Copyright
